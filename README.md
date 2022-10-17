@@ -11,7 +11,7 @@ List of each object in your scene and how it was acquired (necessary for assigni
 My scene is a nomadic forest camp complete with target practice, campfire, and other assorted camp gear. I was heavily inspired old-school rpg's where camps filled with npc's and living gear would be littered around the map for players to find and explore. The main character in the scene is the pixel-art hero. 
 
 Objects (From Imported Package):
-  - Wheat
+  - Wheat (Multiple Types)
   - Box
   - Barrel
   - Campfire
@@ -20,7 +20,7 @@ Objects (From Imported Package):
   - Bottle
   - Mug
   - Chair 
-  - Bush
+  - Bush (Multiple Types)
   - Target Dummy
   - Arrow
   - Apple
