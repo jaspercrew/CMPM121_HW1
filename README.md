@@ -8,7 +8,7 @@ Did anything inspire you?
 What is the main character in this scene?
 List of each object in your scene and how it was acquired (necessary for assigning points)
 
-My scene is a nomadic forest camp complete with target practice, campfire, and other assorted camp gear. I was heavily inspired bh 
+My scene is a nomadic forest camp complete with target practice, campfire, and other assorted camp gear. I was heavily inspired old-school rpg's where camps filled with npc's and living gear would be littered around the map for players to find and explore. The main character in the scene is the pixel-art hero. 
 
 Objects (From Imported Package):
   - Wheat
