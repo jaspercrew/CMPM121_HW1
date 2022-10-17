@@ -19,6 +19,8 @@ Objects (From Imported Package):
   - Table
   - Bottle
   - Mug
+  - Chair 
+  - Bush
   - Target Dummy
   - Arrow
   - Apple
